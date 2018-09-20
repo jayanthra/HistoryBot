@@ -1,0 +1,17 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "twit demo",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayanth acharya",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "twit": "^2.2.5",
+    "wikijs": "^4.5.2",
+    "wtf_wikipedia": "^2.6.1"
+  }
+}
